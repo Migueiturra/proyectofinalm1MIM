@@ -1,0 +1,119 @@
+.navbar {
+      height: 5rem;
+}
+
+.navbar-brand {
+    padding: 15px;
+}
+
+#Hero-Section {
+background-image: url(../img/bg-hero2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: left;
+
+}
+
+.fondo {
+    background-image: url(../img/fondo.jpg);
+}
+
+.col-md-5 {
+    padding: 5%;
+   
+}
+
+.col-md-7 {
+    text-align: right;
+    padding: 5%;
+}
+
+.list-group {
+    justify-content: end;
+    text-align: center;
+    font-weight: 600;
+    color: #00111B;
+}
+
+
+
+.img-fluid {
+    width: 60%;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #0b3348;
+}
+
+.container-acordion {
+background-color: #00111B;
+padding: 2%;
+
+}
+
+
+.accordion-button:not(.collapsed) {
+    background-color:#072b3f;
+    color: white;         
+    border-color: #f7f7f7;
+}
+
+.accordion-item {
+    border-color:#abd5ec;  
+}
+
+.formacion {
+   background-color: #00111B;
+}
+
+.container my-4 {
+background-color: #00111B;
+padding: 0px;
+}
+
+footer {
+    background-color: #0b3348;
+}
+
+.card {
+    background-color: #49606E;
+    color: white;
+    max-height: 500px;
+}
+
+.card-subtitle {
+    font-weight:lighter;
+    color: white;
+}
+
+#Mis-trabajos {
+    background-color: #00111B;
+    
+}
+
+.portafolio {
+    background-color: #00111B;
+}
+
+/* estos id están para que cuando se haga el ancla lleve al lugar correcto, dado que la sticky-navbar lo tapa */
+
+#inicio {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#sobremi {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#micv {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#Mis-trabajos {
+    padding-top: 80px;
+    margin-top: -80px;
+}
